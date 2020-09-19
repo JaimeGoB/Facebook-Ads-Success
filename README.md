@@ -4,7 +4,6 @@ In this program I will analyze data from Facebook Advertisment using **Map-Reduc
 
 Attached is a description of the dataset:
 
-We can see the attributes are:
 - Advertisment ID
 - Data
 - City
